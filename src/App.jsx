@@ -1,5 +1,4 @@
-// import { HashRouter as Router, Routes, Route } from S'react-router-dom';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import { useState } from 'react';
 import ProductList from './components/ProductList';
 import ProductDetail from './components/ProductDetail';
